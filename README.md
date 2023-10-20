@@ -11,7 +11,7 @@ Description of your project goes here.
 
 | Filename | Description | Algorithm |
 |----------|-------------|-----------|
-| [extract_frame_each_sec.py]([src/main.py](https://github.com/wamiqraza/pre-process-script/blob/main/script/extract_frame_each_sec.py)) | This script is designed to process videos in the input folder and save frames to the output folder. It extracts frames at 1-second intervals. | - |
+| [extract_frame_each_sec.py]([(https://github.com/wamiqraza/pre-process-script/blob/main/script/extract_frame_each_sec.py))] | This script is designed to process videos in the input folder and save frames to the output folder. It extracts frames at 1-second intervals. | - |
 | [helper.py](src/helper.py) | Description of helper.py | Algorithm details |
 | [data.csv](data/data.csv) | Description of data.csv | Algorithm details |
 
